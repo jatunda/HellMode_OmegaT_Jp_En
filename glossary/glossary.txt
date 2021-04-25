@@ -1,0 +1,141 @@
+山田	Yamada
+健一	Kenichi
+山田健一	Kenichi Yamada
+サラリーマン	salary man
+ヌルゲー	nuregame
+課金アイテム	in-game item
+ガチャ	gatcha
+チャや	gatcha pull
+ネットゲーム	MMO
+設定	setting
+攻略	walkthrough
+攻略	strategy (guide)
+バージョンアップ	(version) update
+放置ゲー	nopegame
+やり込み要素	Hardcore elements
+廃設定	obsolete setting
+廃	obsolete
+１つの真理	one truth
+ヘルモード	Hell Mode
+エクストラモード	Hard Mode
+エクストラスキル	Rare Skill
+真理	truth (Truth?)
+作成スタッフ	developers
+職業	class
+剣士	swordsman
+格闘家	Brawler
+盗賊	thief
+商人	merchant
+魔法使い	mage
+魔法使い	mage
+賢者	sage
+聖女	priestess
+剣聖	sword saint
+大魔導士	arch mage
+階級	rank
+平民	commoner
+農奴	serf
+魔王	demon king
+召喚士	summoner
+現実世界	the real world
+テレシア	Theresia
+アレン	Allen
+ロダン	Rodan
+あなた	you/honey
+豪勢	fancy
+魔導書	Grimoire
+土間	Doma (dirt floor)
+体力	HP
+【名　前】	NAME
+【年　齢】	AGE
+【職　業】	CLASS
+【レベル】	LVL
+【体　力】	HP
+【魔　力】	MP
+【攻撃力】	ATK
+【耐久力】	DEF
+【素早さ】	AGL
+【知　力】	INT
+【幸　運】	LCK
+【スキル】	SKILLS
+【経験値】	EXP
+耐久力	endurance
+ブンッ	Bing.
+召喚	Summon
+生成	Create
+削除	Delete
+【召　喚】	【SUMMON】
+【生　成】	【CREATE】
+事務手続	administrative procedures
+エルメア	Elmere
+【　虫　】	BUG
+【　獣　】	BEAST
+【特　技】	SKL
+【加　護】	BUF
+駆け回る	Scamper
+召喚獣	summoned creature
+生成可能召喚獣	obtainable summons
+異世界の神	God of the Other World
+開拓村	frontier village
+アルバヘロン	albaheron
+魔獣	monster
+魔石	magic stone
+ゲルダ	Gerda
+クレナ	Kurena
+合成	Synthesize
+拡張	Expansion
+【合　成】	【SYNTH】
+取得可能召喚獣	Obtainable Summons
+ピョンタ	Pyonta
+挑発	Taunt
+モグスケ	Mogusuke
+穴を掘る	Dig
+チャッピー	Chappy
+知力	INT
+検証	investigation
+投擲	Throwing
+剣術	Swordsmanship
+マッシュ	Mash
+マーダーガルシュ	murdergarsh
+デボジ	Deboji
+神官様	priest
+鑑定の儀	appraisal ceremony
+クラシス	Krassis
+ドベルグ	Doberg
+ペロムス	Peromus
+【才　能】	Talent
+才能	Talent
+ドゴラ	Dogora
+斧使い	Axeman
+僧侶	Monk
+ミチルダ	Mitilda
+リリィ	Lily
+騎士団長	Commander
+騎士団長	Knight Commander
+副騎士団長	Lieutenant Commander
+副騎士団長	Lieutenant Knight Commander
+レイブラン	Wraybrand
+ノーマルモード	Normal Mode
+伯爵	earl
+学園	academy
+強化	Enhance
+強　化	Enhance
+加護	blessing
+神の試練	Trials of God
+上昇値	growth rate
+メモ	note
+神界	God's Realm
+吸い付く	Suck
+噛みつく	Bite
+伝達	Transmit
+伝令	Messenger
+さえずり	Twitter
+千里眼	Clairvoyance
+白夜	Midnight Sun
+魔力	MP
+幸運	LCK
+アッポー	Apple
+ポッポ	Poppo
+チュー	Chuu
+ミュラーゼの花	Müllerswort
+薬屋	apothocary
